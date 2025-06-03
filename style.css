@@ -71,7 +71,7 @@ body{
 .input-search-sec input {
    outline: none;
     background: transparent;
-    padding-left: 4px;
+    padding-left: 20px;
     width:550px;
     height: 40px;
     border-end-start-radius: 20px;
