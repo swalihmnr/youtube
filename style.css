@@ -81,6 +81,7 @@ body{
 }
 .input-search-sec input[type=search]:focus{
     border: 0.3px solid rgb(4, 126, 197);
+    color: white;
 }
 .input-search-sec input{
     font-size: 17px;
